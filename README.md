@@ -6,7 +6,7 @@ I'm a CS/Math/Stats student at UIowa.
 
 ## 🔭 Projects
 
-- [C++ Orderbook]() - featuring FIFO order matching algorithm, market and limit order handling, and visualization to see the state of the book.
+- [C++ Orderbook](https://github.com/engineswap/cpp-orderbook) - featuring FIFO order matching algorithm, market and limit order handling, and visualization to see the state of the book.
 
 
 ## 📈 GitHub Activity  
