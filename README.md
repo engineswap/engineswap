@@ -10,7 +10,8 @@ I'm a CS/Math/Stats student at UIowa.
 - [Yolo Compiler](https://github.com/engineswap/yolo_compiler.git) - Compilies custom language to c, written in python.
 - [Options Pricing](https://github.com/engineswap/options-pricing) - Black scholes, monte carlo, and binomial tree options pricing models implemented in both Python & C++.
 - [Blackjack simlation](https://github.com/engineswap/blackjack-simulation) - A monte carlo simulation of blackjack, written in python.
- 
+
+<!---
 ## 📈 GitHub Activity  
 
 <!-- GitHub Activity Graph -->
@@ -19,6 +20,7 @@ I'm a CS/Math/Stats student at UIowa.
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=engineswap&hide=issues&bg_color=151515" alt="GitHub Activity Graph">
   </a>
 </p>
+-->
 
 ## 📈 Top Languages
 
