@@ -1,6 +1,6 @@
 # 👋 Hello there, I'm Ilya Tataurov!
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1500&random=false&width=435&lines=Programming++<3;Quantitative+Finance+<3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Programming+%3C3)](https://git.io/typing-svg)
 
 I'm a CS/Math/Stats student at UIowa. 
 
