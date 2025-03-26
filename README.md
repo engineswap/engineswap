@@ -7,6 +7,7 @@ I'm a CS/Math/Stats student at UIowa.
 ## 🔭 My Projects
 
 - [Heap Allocator](https://github.com/engineswap/heap_allocator) - A basic "first fit" heap allocator written in c++.
+- [Basic Matrix Library](https://github.com/engineswap/matrix_library) - A fast matrix multiplication library in C++ featuring naive, divide and conquer, and Strassen's algorithms.
 - [Market Orderbook](https://github.com/engineswap/cpp-orderbook) - Features FIFO order matching algorithm, market and limit order handling, and visualization, written in C++.
 - [HTTP Server](https://github.com/engineswap/http_server) - HTTP server supporting get requests and using a thread-pool, written in C++.
 - [Yolo Compiler](https://github.com/engineswap/yolo_compiler.git) - Compilies custom language to c, written in python.
